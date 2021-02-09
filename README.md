@@ -20,7 +20,7 @@ A simple **Currency Converter** application created using JavaFX.
 * jackson-databind-2.11.3
 
 ## How to Use?
-**Note**: The JAR file only runs on windows OS.
+**Note**: The JAR file only runs on windows OS.<br>
 The application can be used in two ways described below.
 ### 1.Executing the JAR 
 1. Clone the project.
